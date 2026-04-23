@@ -2,8 +2,14 @@
 
 A Claude skill for club managers, directors, and sports administrators. It navigates the regulatory frameworks of international and national sports governing bodies — protecting clubs from sanctions, fines, and reputational damage through clear, actionable, cited guidance.
 
----
+------
+## Who Does it
+Issam Ourrai is a Product Owner in financial markets software, doctoral researcher in entrepreneurial ecosystems, and lecturer in digital innovation and data science at IÉSEG School of Management and ISC Paris. He is the founder of Creativebox.ma, an incubator and coworking space in Morocco, and an active builder at the intersection of AI, law, and entrepreneurship.
+His sports law skill was developed out of a practical need observed across African and European football clubs: the gap between regulatory complexity and operational decision-making on the ground. Drawing on his research background in institutional frameworks and his experience building AI-powered tools for non-technical users, he designed this skill so that a club manager facing a CAF notice at 11pm gets a usable answer — not a textbook.
+Based in Paris. Research interests: entrepreneurial ecosystems, frugal innovation, informal economies, and AI applications for practitioners.
+🌐 ourrai.net · 📍 Paris, France
 
+------
 ## Languages
 
 The skill auto-detects the user's language and responds fully in that language — no configuration needed. Reference files are in English (the language of official regulations), but all responses, verdicts, advice, and disclaimers are delivered in the user's language.
