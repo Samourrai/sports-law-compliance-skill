@@ -122,5 +122,5 @@ When a governing body updates its regulations, update:
 This skill provides informational guidance only. It does not constitute formal legal advice. For official proceedings, sanctions, contract execution, or formal submissions to governing bodies, always engage a licensed sports law attorney.
 
 ---
-
+*Build by Issam OURRAI | Samourrai | https://www.linkedin.com/in/samourrai/
 *Built with Claude · Skill framework by Anthropic*
